@@ -9,4 +9,4 @@ echo "==============testing using arg===================="
 echo "Value for arg 1 is : $ARG_1",
 echo "Value for arg 2 is : $ARG_2".
 echo "Value for arg 2 is : $ARG_3".
-echo "Script file name is : $0"
+#echo "Script file name is : $0"
